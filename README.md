@@ -4,7 +4,7 @@ Two HTML routes and two API routes are created. This is an example of GET HTML r
 ![image](https://user-images.githubusercontent.com/88174852/142953692-f2676052-6a69-4486-b8f0-4ad379ad01ac.png)
 And as bonus suggests, I created DELETE route, which works in Insomnia (does not work in HTML yet). I hope it still counts as A+. Let me show you DELETE example. When I hit this route in Insomnia
 ![image](https://user-images.githubusercontent.com/88174852/142972569-b6b96631-bd1f-406a-91ec-4811817410d7.png)
-it DELETEs element with that id from an array. Compare two arrays in terminal
+it DELETEs element with that id from an array. Compare two arrays in terminal. And check that objects do have unique id
 ![image](https://user-images.githubusercontent.com/88174852/142972626-c0d12506-e09d-4228-9eaa-037d8b97a18f.png)
 ## Requirements
 When I open the Note Taker I am presented with a landing page with a link to a notes page
