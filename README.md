@@ -13,8 +13,6 @@ When I click on the link to the notes page I am presented with a page with exist
 ![image](https://user-images.githubusercontent.com/88174852/142973114-fda0386c-15e9-4e7e-8e7b-1b7a0a8d3853.png)
 When I enter a new note title and the note’s text a Save icon appears in the navigation at the top of the page
 ![image](https://user-images.githubusercontent.com/88174852/142973274-c38b79e3-d14e-4198-afe7-4b9055a3d337.png)
-When I click on the Save icon the new note I have entered is saved and appears in the left-hand column with the other existing notes
+When I click on the Save icon the new note I have entered is saved and appears in the left-hand column with the other existing notes. When I click on an existing note in the list in the left-hand column that note appears in the right-hand column: this function does not work yet. When I click on the Write icon in the navigation at the top of the page I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ![image](https://user-images.githubusercontent.com/88174852/142973342-4d813be8-05c9-4791-a241-114509861761.png)
-When I click on an existing note in the list in the left-hand column that note appears in the right-hand column: this function does not work yet
-When I click on the Write icon in the navigation at the top of the page I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
-![image](https://user-images.githubusercontent.com/88174852/142973670-4153ba75-bfc1-47b3-a1bd-23a4d6b91446.png)
+
